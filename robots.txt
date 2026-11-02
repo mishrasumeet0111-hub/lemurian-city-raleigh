@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raleigh.lemurianstudios.com/sitemap.xml
